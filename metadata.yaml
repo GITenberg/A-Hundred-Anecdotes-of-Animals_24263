@@ -1,0 +1,30 @@
+_repo: A-Hundred-Anecdotes-of-Animals_24263
+_version: 0.1.0
+contributor:
+  illustrator: &id001
+    agent_name: Billinghurst, Percy J.
+    gutenberg_agent_id: '26353'
+    url: http://www.gutenberg.org/2009/agents/26353
+covers:
+- cover_type: archival
+  image_path: 24263-h/images/imgcover.jpg
+creator:
+  author: *id001
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild
+- Children's Instructional Books
+gutenberg_issued: '2008-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Humor'
+title: A Hundred Anecdotes of Animals
+url: http://www.gutenberg.org/ebooks/24263
